@@ -12,7 +12,7 @@
     <name>Find Security Bugs Samples Kotlin</name>
 
     <properties>
-        <kotlin.version>1.2.51</kotlin.version>
+        <kotlin.version>1.7.10</kotlin.version>
     </properties>
 
     <dependencies>
